@@ -1,0 +1,27 @@
+.button {
+  class: btn btn-outline-primary;
+  background-color: #eee;
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 2px 2px;
+  white-space: pre;
+  
+}
+.button1 {border-radius: 80%;}
+
+.container{
+  position: relative;
+  width: 100%
+}
+.container video{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);                            
+}
+
