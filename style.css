@@ -1,8 +1,8 @@
 .button {
-  class: btn btn-outline-primary;
-  background-color: #eee;
-  border: none;
-  color: black;
+  class: btn btn-outline-dark;
+
+
+ 
   padding: 20px;
   text-align: center;
   text-decoration: none;
